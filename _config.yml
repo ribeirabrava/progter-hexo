@@ -105,6 +105,6 @@ theme: book
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
- type: 'git'
- repo: https://ribeirabrava.github.io/progter-hexo.git
- branch: gh-pages
+  type: 'git'
+  repo: https://ribeirabrava.github.io/progter-hexo.git
+  branch: gh-pages
