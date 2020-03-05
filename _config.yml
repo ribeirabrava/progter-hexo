@@ -7,15 +7,15 @@ title: ProgTerClub
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: ProgTerClub
 language: en
 timezone: ''
 
 
 
-# URL
+# URL 
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://ribeirabrava.github.io/progter-hexo/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,5 +99,12 @@ theme: book
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#   type: ''
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+ type: 'git'
+ repo: https://ribeirabrava.github.io/progter-hexo.git
+ branch: gh-pages
