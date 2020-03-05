@@ -1,31 +1,16 @@
-# H1 is separator
+---
+title: menu
+date: 2020-03-05 15:36:42
+tags:
+---
+# Меню сайту
 
-## H2
+- [About](/about)
+- [Services](/services)
+- [Contacts](/contacts)
 
-- [My link](file:source/_posts/index.md)
-- [My Hello](source/_posts/hello-world.md)
+## JavaScript
 
-- find nearest header
-- this unordered list will find H2
-
-### H3
-
-- find nearest header
-- this unordered list will find H3
-
-# H1 is separator
-
-#### H4
-
-- find nearest header
-- this unordered list will find H4
-
-##### H5
-
-- find nearest header
-- this unordered list will find H5
-
-###### H6
-
-- find nearest header
-- this unordered list will find H6
+- [About](/about)
+- [Services](/services)
+- [Contacts](/contacts)
